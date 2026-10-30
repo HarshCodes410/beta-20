@@ -39,26 +39,4 @@
 
 ---
 
-## 🚀 Running Locally
 
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Run development server
-npm run dev
-
-# 3. Open in browser
-http://localhost:3000
-
-# 4. Production build
-npm run build
-```
-
----
-
-## 🌐 1-Click Live Deployment (Vercel)
-
-1. Push code to `https://github.com/HarshCodes410/beta-20`
-2. Go to [vercel.com](https://vercel.com) -> New Project -> Import `beta-20`
-3. Click **Deploy**! (Build settings auto-detected).
