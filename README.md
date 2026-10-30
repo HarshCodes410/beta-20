@@ -38,5 +38,6 @@
 3. **Black-box Job Scoring:** We never show an arbitrary percentage without explaining matching skills, missing gaps, and listing trust status.
 
 ---
+thankyou
 
 
